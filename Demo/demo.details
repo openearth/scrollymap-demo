@@ -1,15 +1,18 @@
 /*
 ---
 name: Request.HTML - jsFiddle/Github integration demo
-description: jsFiddle demo hosted on Github using HTML Request to get Ajax data
+description: jsFiddle demo hosted on Github using HTML Request to edit a storymap in mapbox
 authors:
-  - Piotr Zalewa
+  - Fedor Baart
 resources:
+  - /assets/co14ersstory.gif
+  - /assets/glacierdemo.gif
+  - /assets/locationhelper.gif
   - /js/empty.js
   - /css/normalize.css
 normalize_css: yes
-lang_css: SCSS
+lang_css: CSS
 ...
 */
 
-<p>This demo will show you how to: add multiple Events to an Element, create custom Events and fire an Event.</p> 
+<p>This demo will show how to edit a story map map for mapbox</p>
