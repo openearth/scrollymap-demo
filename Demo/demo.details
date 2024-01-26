@@ -10,6 +10,11 @@ resources:
   - /assets/locationhelper.gif
   - /js/empty.js
   - /css/normalize.css
+  - https://api.tiles.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.js
+  - https://api.tiles.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.css
+  - https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js
+  - https://unpkg.com/scrollama
+
 normalize_css: yes
 lang_css: CSS
 ...
